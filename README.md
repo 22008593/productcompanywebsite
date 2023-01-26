@@ -734,15 +734,16 @@ contact.html
 </html>
 
 ```
+
 ## OUTPUT:
-![output](vishvapeople1.html)
-![output](vishvapeople2.html)
-![output](vishvaproducts.html)
-![output](vishvacontact.html)
+![output](vishvapeople1.png)
+![output](vishvapeople2.png)
+![output](vishvaproducts.png)
+![output](vishvacontact.png)
 
 ### Home Page:
 
-![output](vishvahome.html)
+![output](vishvahome.png)
 
 ## Result:
 
