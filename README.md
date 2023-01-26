@@ -735,13 +735,14 @@ contact.html
 
 ```
 ## OUTPUT:
-![output]()
-![output]()
-![output]()
+![output](vishvapeople1.html)
+![output](vishvapeople2.html)
+![output](vishvaproducts.html)
+![output](vishvacontact.html)
 
 ### Home Page:
 
-![output]()
+![output](vishvahome.html)
 
 ## Result:
 
