@@ -217,14 +217,14 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>SRI Fancy Universe</h1>
+                    <h1>Sec Fancy Universe</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
                     <marquee><b>Feel BEAUTY through our Store</b></marquee>
                     <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Fancy Store</p>
                     </div>
-                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">SRI Fancy Universe</span>
+                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">Sec Fancy Universe</span>
                          for Rs.100 | Buy cosmetics in ONE SIZE online | 7 Days Returns | Trend setting models | And much more</p>
                     <br>
                 <center>
@@ -239,7 +239,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Sri Ranjani Priya</footer></div>
+                Copyright &copy;2023 Developed by Vishvajith J</footer></div>
             </div>
         </div>
     </body>
@@ -448,7 +448,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Sri Ranjani Priya</footer></div>
+                Copyright &copy;2023 Developed by Vishvajith J</footer></div>
             </div>
         </div>
     </body>
@@ -655,7 +655,7 @@ products.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Sri Ranjani Priya</footer></div>
+                Copyright &copy;2023 Developed by Vishvajith J</footer></div>
             </div>
         </div>
     </body>
@@ -727,7 +727,7 @@ contact.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Sri Ranjani Priya</footer></div>
+                Copyright &copy;2023 Developed by Vishvajith J</footer></div>
             </div>
         </div>
     </body>
