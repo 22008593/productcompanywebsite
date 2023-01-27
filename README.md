@@ -738,7 +738,7 @@ contact.html
 ## OUTPUT:
 ![output](vishvapeople1.png)
 ![output](vishvapeople2.png)
-![output](vishvaproducts.png)
+![output](vishvaproduct.png)
 ![output](vishvacontact.png)
 
 ### Home Page:
